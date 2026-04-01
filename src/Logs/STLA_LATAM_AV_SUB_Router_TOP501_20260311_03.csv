@@ -1,0 +1,7722 @@
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261039
+DATE : 2026/03/11
+TIME : 07:02:23
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.058
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261047
+DATE : 2026/03/11
+TIME : 07:02:24
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.238
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261068
+DATE : 2026/03/11
+TIME : 07:02:25
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.248
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261038
+DATE : 2026/03/11
+TIME : 07:02:26
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.237
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261055
+DATE : 2026/03/11
+TIME : 07:02:27
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.236
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261076
+DATE : 2026/03/11
+TIME : 07:02:28
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.246
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262247
+DATE : 2026/03/11
+TIME : 07:02:57
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.074
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262245
+DATE : 2026/03/11
+TIME : 07:02:58
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.073
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262255
+DATE : 2026/03/11
+TIME : 07:02:59
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.26
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262246
+DATE : 2026/03/11
+TIME : 07:03:00
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.458
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262251
+DATE : 2026/03/11
+TIME : 07:03:01
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.668
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262252
+DATE : 2026/03/11
+TIME : 07:03:02
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.668
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262298
+DATE : 2026/03/11
+TIME : 07:03:44
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.499
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262280
+DATE : 2026/03/11
+TIME : 07:03:45
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.48
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262278
+DATE : 2026/03/11
+TIME : 07:03:46
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.674
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262285
+DATE : 2026/03/11
+TIME : 07:03:47
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.906
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262279
+DATE : 2026/03/11
+TIME : 07:03:48
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.894
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262284
+DATE : 2026/03/11
+TIME : 07:03:49
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.885
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261042
+DATE : 2026/03/11
+TIME : 07:04:48
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.425
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261049
+DATE : 2026/03/11
+TIME : 07:04:49
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.612
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261066
+DATE : 2026/03/11
+TIME : 07:04:50
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.999
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261041
+DATE : 2026/03/11
+TIME : 07:04:51
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.009
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261057
+DATE : 2026/03/11
+TIME : 07:04:52
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.008
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261029
+DATE : 2026/03/11
+TIME : 07:04:53
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.237
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262194
+DATE : 2026/03/11
+TIME : 07:05:35
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.882
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262224
+DATE : 2026/03/11
+TIME : 07:05:36
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.069
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262211
+DATE : 2026/03/11
+TIME : 07:05:37
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.267
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262217
+DATE : 2026/03/11
+TIME : 07:05:38
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.441
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262193
+DATE : 2026/03/11
+TIME : 07:05:39
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.667
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262208
+DATE : 2026/03/11
+TIME : 07:05:39
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.051
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262165
+DATE : 2026/03/11
+TIME : 07:06:09
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.295
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262151
+DATE : 2026/03/11
+TIME : 07:06:10
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.483
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262154
+DATE : 2026/03/11
+TIME : 07:06:11
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.68
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262164
+DATE : 2026/03/11
+TIME : 07:06:12
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.885
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262166
+DATE : 2026/03/11
+TIME : 07:06:13
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.083
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262162
+DATE : 2026/03/11
+TIME : 07:06:14
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.081
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262176
+DATE : 2026/03/11
+TIME : 07:06:43
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.881
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262174
+DATE : 2026/03/11
+TIME : 07:06:44
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.88
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262183
+DATE : 2026/03/11
+TIME : 07:06:45
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.859
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262175
+DATE : 2026/03/11
+TIME : 07:06:46
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.245
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262179
+DATE : 2026/03/11
+TIME : 07:06:47
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.471
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262182
+DATE : 2026/03/11
+TIME : 07:06:48
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.47
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665068261588
+DATE : 2026/03/11
+TIME : 07:07:28
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.287
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665068261621
+DATE : 2026/03/11
+TIME : 07:07:29
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.267
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665068261613
+DATE : 2026/03/11
+TIME : 07:07:30
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.276
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665068261604
+DATE : 2026/03/11
+TIME : 07:07:31
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.463
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665068261596
+DATE : 2026/03/11
+TIME : 07:07:32
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.67
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665068261589
+DATE : 2026/03/11
+TIME : 07:07:33
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.872
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262228
+DATE : 2026/03/11
+TIME : 07:08:02
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.917
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262229
+DATE : 2026/03/11
+TIME : 07:08:03
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.104
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262234
+DATE : 2026/03/11
+TIME : 07:08:04
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.104
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261082
+DATE : 2026/03/11
+TIME : 07:08:05
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.302
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262232
+DATE : 2026/03/11
+TIME : 07:08:06
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.705
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262233
+DATE : 2026/03/11
+TIME : 07:08:07
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.903
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261025
+DATE : 2026/03/11
+TIME : 07:08:36
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.077
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261024
+DATE : 2026/03/11
+TIME : 07:08:37
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.065
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261023
+DATE : 2026/03/11
+TIME : 07:08:38
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.262
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261033
+DATE : 2026/03/11
+TIME : 07:08:39
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.46
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261032
+DATE : 2026/03/11
+TIME : 07:08:40
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.668
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261031
+DATE : 2026/03/11
+TIME : 07:08:41
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.67
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262235
+DATE : 2026/03/11
+TIME : 07:09:16
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.491
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262237
+DATE : 2026/03/11
+TIME : 07:09:17
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.688
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262239
+DATE : 2026/03/11
+TIME : 07:09:18
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.875
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262236
+DATE : 2026/03/11
+TIME : 07:09:19
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.062
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262238
+DATE : 2026/03/11
+TIME : 07:09:20
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.081
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262240
+DATE : 2026/03/11
+TIME : 07:09:21
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.288
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262264
+DATE : 2026/03/11
+TIME : 07:09:49
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.292
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262290
+DATE : 2026/03/11
+TIME : 07:09:50
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.476
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262292
+DATE : 2026/03/11
+TIME : 07:09:51
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.477
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262265
+DATE : 2026/03/11
+TIME : 07:09:52
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.473
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262291
+DATE : 2026/03/11
+TIME : 07:09:53
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.69
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262267
+DATE : 2026/03/11
+TIME : 07:09:54
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.887
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261073
+DATE : 2026/03/11
+TIME : 07:10:27
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.876
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261070
+DATE : 2026/03/11
+TIME : 07:10:28
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.865
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261062
+DATE : 2026/03/11
+TIME : 07:10:29
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.874
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261072
+DATE : 2026/03/11
+TIME : 07:10:30
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.063
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261071
+DATE : 2026/03/11
+TIME : 07:10:31
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.239
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261063
+DATE : 2026/03/11
+TIME : 07:10:32
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.261
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260800
+DATE : 2026/03/11
+TIME : 07:11:03
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.281
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665068262251
+DATE : 2026/03/11
+TIME : 07:11:04
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.26
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260797
+DATE : 2026/03/11
+TIME : 07:11:05
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.459
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260799
+DATE : 2026/03/11
+TIME : 07:11:06
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.459
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260793
+DATE : 2026/03/11
+TIME : 07:11:07
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.667
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260798
+DATE : 2026/03/11
+TIME : 07:11:08
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.666
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261022
+DATE : 2026/03/11
+TIME : 07:11:38
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.88
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261053
+DATE : 2026/03/11
+TIME : 07:11:39
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.861
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261028
+DATE : 2026/03/11
+TIME : 07:11:40
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.06
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261027
+DATE : 2026/03/11
+TIME : 07:11:41
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.467
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261010
+DATE : 2026/03/11
+TIME : 07:11:42
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.871
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261018
+DATE : 2026/03/11
+TIME : 07:11:43
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.872
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261075
+DATE : 2026/03/11
+TIME : 07:12:27
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 25.874
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261067
+DATE : 2026/03/11
+TIME : 07:12:28
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.058
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261048
+DATE : 2026/03/11
+TIME : 07:12:29
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.256
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261046
+DATE : 2026/03/11
+TIME : 07:12:30
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.671
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261056
+DATE : 2026/03/11
+TIME : 07:12:31
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.69
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261040
+DATE : 2026/03/11
+TIME : 07:12:32
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.71
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262127
+DATE : 2026/03/11
+TIME : 15:32:47
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.911
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262125
+DATE : 2026/03/11
+TIME : 15:32:48
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.901
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260827
+DATE : 2026/03/11
+TIME : 15:32:49
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.101
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260824
+DATE : 2026/03/11
+TIME : 15:32:50
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.091
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262126
+DATE : 2026/03/11
+TIME : 15:32:51
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.101
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260823
+DATE : 2026/03/11
+TIME : 15:32:52
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.1
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260849
+DATE : 2026/03/11
+TIME : 15:36:37
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.112
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260846
+DATE : 2026/03/11
+TIME : 15:36:38
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.092
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260848
+DATE : 2026/03/11
+TIME : 15:36:39
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.291
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260843
+DATE : 2026/03/11
+TIME : 15:36:40
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.488
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260840
+DATE : 2026/03/11
+TIME : 15:36:41
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.696
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260851
+DATE : 2026/03/11
+TIME : 15:36:42
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.895
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260838
+DATE : 2026/03/11
+TIME : 15:40:35
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.878
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260841
+DATE : 2026/03/11
+TIME : 15:40:37
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.064
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260837
+DATE : 2026/03/11
+TIME : 15:40:38
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.261
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260844
+DATE : 2026/03/11
+TIME : 15:40:39
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.47
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260845
+DATE : 2026/03/11
+TIME : 15:40:40
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.472
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260842
+DATE : 2026/03/11
+TIME : 15:40:41
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.472
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261357
+DATE : 2026/03/11
+TIME : 15:41:10
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.336
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261354
+DATE : 2026/03/11
+TIME : 15:41:11
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.325
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261352
+DATE : 2026/03/11
+TIME : 15:41:12
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.315
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261350
+DATE : 2026/03/11
+TIME : 15:41:13
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.323
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261353
+DATE : 2026/03/11
+TIME : 15:41:14
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.323
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261351
+DATE : 2026/03/11
+TIME : 15:41:15
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.32
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261366
+DATE : 2026/03/11
+TIME : 15:42:37
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.041
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261363
+DATE : 2026/03/11
+TIME : 15:42:38
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.019
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261365
+DATE : 2026/03/11
+TIME : 15:42:39
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.219
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261362
+DATE : 2026/03/11
+TIME : 15:42:40
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.218
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261386
+DATE : 2026/03/11
+TIME : 15:42:41
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.229
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261361
+DATE : 2026/03/11
+TIME : 15:42:42
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.425
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261376
+DATE : 2026/03/11
+TIME : 15:43:12
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.321
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261367
+DATE : 2026/03/11
+TIME : 15:43:13
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.32
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261370
+DATE : 2026/03/11
+TIME : 15:43:14
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.311
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261374
+DATE : 2026/03/11
+TIME : 15:43:15
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.509
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261375
+DATE : 2026/03/11
+TIME : 15:43:16
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.517
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261382
+DATE : 2026/03/11
+TIME : 15:43:17
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.504
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261378
+DATE : 2026/03/11
+TIME : 15:43:52
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.34
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261368
+DATE : 2026/03/11
+TIME : 15:43:53
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.331
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261373
+DATE : 2026/03/11
+TIME : 15:43:54
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.528
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261369
+DATE : 2026/03/11
+TIME : 15:43:55
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.527
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261377
+DATE : 2026/03/11
+TIME : 15:43:56
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.526
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261364
+DATE : 2026/03/11
+TIME : 15:43:57
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.733
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261388
+DATE : 2026/03/11
+TIME : 15:47:38
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.075
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261385
+DATE : 2026/03/11
+TIME : 15:47:40
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.053
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261394
+DATE : 2026/03/11
+TIME : 15:47:41
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.252
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261393
+DATE : 2026/03/11
+TIME : 15:47:42
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.26
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261389
+DATE : 2026/03/11
+TIME : 15:47:43
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.263
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261379
+DATE : 2026/03/11
+TIME : 15:47:44
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.275
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261390
+DATE : 2026/03/11
+TIME : 15:48:13
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.347
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261391
+DATE : 2026/03/11
+TIME : 15:48:14
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.536
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261402
+DATE : 2026/03/11
+TIME : 15:48:15
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.734
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261387
+DATE : 2026/03/11
+TIME : 15:48:16
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.934
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261392
+DATE : 2026/03/11
+TIME : 15:48:17
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.933
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261395
+DATE : 2026/03/11
+TIME : 15:48:18
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.14
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260959
+DATE : 2026/03/11
+TIME : 15:48:53
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.519
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261396
+DATE : 2026/03/11
+TIME : 15:48:54
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.499
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261397
+DATE : 2026/03/11
+TIME : 15:48:55
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.698
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261399
+DATE : 2026/03/11
+TIME : 15:48:56
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.896
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261403
+DATE : 2026/03/11
+TIME : 15:48:57
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.102
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260957
+DATE : 2026/03/11
+TIME : 15:48:58
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.101
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260951
+DATE : 2026/03/11
+TIME : 15:50:06
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.253
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260932
+DATE : 2026/03/11
+TIME : 15:50:07
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.231
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260946
+DATE : 2026/03/11
+TIME : 15:50:08
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.034
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260943
+DATE : 2026/03/11
+TIME : 15:50:09
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.234
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260933
+DATE : 2026/03/11
+TIME : 15:50:10
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.434
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260944
+DATE : 2026/03/11
+TIME : 15:50:11
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.443
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260927
+DATE : 2026/03/11
+TIME : 15:50:41
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.314
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260939
+DATE : 2026/03/11
+TIME : 15:50:42
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.501
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260934
+DATE : 2026/03/11
+TIME : 15:50:43
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.502
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260938
+DATE : 2026/03/11
+TIME : 15:50:44
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.5
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260926
+DATE : 2026/03/11
+TIME : 15:50:45
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.497
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260937
+DATE : 2026/03/11
+TIME : 15:50:46
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.714
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261381
+DATE : 2026/03/11
+TIME : 15:51:26
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.323
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261384
+DATE : 2026/03/11
+TIME : 15:51:27
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.314
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261371
+DATE : 2026/03/11
+TIME : 15:51:28
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.514
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261383
+DATE : 2026/03/11
+TIME : 15:51:29
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.711
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261380
+DATE : 2026/03/11
+TIME : 15:51:30
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.733
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261372
+DATE : 2026/03/11
+TIME : 15:51:31
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.714
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260955
+DATE : 2026/03/11
+TIME : 15:52:00
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.328
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260956
+DATE : 2026/03/11
+TIME : 15:52:01
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.317
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261401
+DATE : 2026/03/11
+TIME : 15:52:02
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.515
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260958
+DATE : 2026/03/11
+TIME : 15:52:03
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.515
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261400
+DATE : 2026/03/11
+TIME : 15:52:04
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.723
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261398
+DATE : 2026/03/11
+TIME : 15:52:05
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.722
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260954
+DATE : 2026/03/11
+TIME : 15:52:37
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.315
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260952
+DATE : 2026/03/11
+TIME : 15:52:38
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.305
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260942
+DATE : 2026/03/11
+TIME : 15:52:39
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.304
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260945
+DATE : 2026/03/11
+TIME : 15:52:40
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.304
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260953
+DATE : 2026/03/11
+TIME : 15:52:41
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.304
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260941
+DATE : 2026/03/11
+TIME : 15:52:42
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.304
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260950
+DATE : 2026/03/11
+TIME : 15:53:32
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.835
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260936
+DATE : 2026/03/11
+TIME : 15:53:33
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.823
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260948
+DATE : 2026/03/11
+TIME : 15:53:34
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.023
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260947
+DATE : 2026/03/11
+TIME : 15:53:35
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.024
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260931
+DATE : 2026/03/11
+TIME : 15:53:36
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.232
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260949
+DATE : 2026/03/11
+TIME : 15:53:37
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.223
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260884
+DATE : 2026/03/11
+TIME : 15:57:46
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.251
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260892
+DATE : 2026/03/11
+TIME : 15:57:48
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.022
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260894
+DATE : 2026/03/11
+TIME : 15:57:49
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.231
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260895
+DATE : 2026/03/11
+TIME : 15:57:50
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.427
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260885
+DATE : 2026/03/11
+TIME : 15:57:51
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.427
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260859
+DATE : 2026/03/11
+TIME : 15:57:52
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.636
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260866
+DATE : 2026/03/11
+TIME : 15:58:22
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.742
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260872
+DATE : 2026/03/11
+TIME : 15:58:23
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.932
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260875
+DATE : 2026/03/11
+TIME : 15:58:24
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.943
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260874
+DATE : 2026/03/11
+TIME : 15:58:25
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.13
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260883
+DATE : 2026/03/11
+TIME : 15:58:26
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.14
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260863
+DATE : 2026/03/11
+TIME : 15:58:27
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.13
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260871
+DATE : 2026/03/11
+TIME : 15:59:03
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.345
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260864
+DATE : 2026/03/11
+TIME : 15:59:04
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.533
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260870
+DATE : 2026/03/11
+TIME : 15:59:05
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.529
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069262250
+DATE : 2026/03/11
+TIME : 15:59:06
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.54
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260869
+DATE : 2026/03/11
+TIME : 15:59:07
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.738
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260858
+DATE : 2026/03/11
+TIME : 15:59:08
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.73
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260847
+DATE : 2026/03/11
+TIME : 15:59:42
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.78
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260856
+DATE : 2026/03/11
+TIME : 15:59:43
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.965
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260852
+DATE : 2026/03/11
+TIME : 15:59:44
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.165
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260853
+DATE : 2026/03/11
+TIME : 15:59:45
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.158
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260855
+DATE : 2026/03/11
+TIME : 15:59:46
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.369
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260854
+DATE : 2026/03/11
+TIME : 15:59:47
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.368
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260836
+DATE : 2026/03/11
+TIME : 16:00:39
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.062
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260834
+DATE : 2026/03/11
+TIME : 16:00:41
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.25
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260839
+DATE : 2026/03/11
+TIME : 16:00:42
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.448
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260831
+DATE : 2026/03/11
+TIME : 16:00:43
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.437
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260835
+DATE : 2026/03/11
+TIME : 16:00:44
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.458
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260832
+DATE : 2026/03/11
+TIME : 16:00:45
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.646
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260833
+DATE : 2026/03/11
+TIME : 16:01:21
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.536
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260822
+DATE : 2026/03/11
+TIME : 16:01:22
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.725
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260830
+DATE : 2026/03/11
+TIME : 16:01:23
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.922
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260825
+DATE : 2026/03/11
+TIME : 16:01:24
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.924
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260829
+DATE : 2026/03/11
+TIME : 16:01:25
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.923
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069260828
+DATE : 2026/03/11
+TIME : 16:01:26
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.923
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261359
+DATE : 2026/03/11
+TIME : 16:01:57
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.546
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261356
+DATE : 2026/03/11
+TIME : 16:01:58
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.526
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261355
+DATE : 2026/03/11
+TIME : 16:01:59
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.723
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261358
+DATE : 2026/03/11
+TIME : 16:02:00
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 26.93
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261360
+DATE : 2026/03/11
+TIME : 16:02:01
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.139
+//PC_RAM_END(free) : 
+
+
+
+#INIT
+MODEL : STLA_LATAM_AV_SUB
+Tipo_Placa : SUB
+P/N : 517665069261348
+DATE : 2026/03/11
+TIME : 16:02:02
+LOGVERSION : 1.0.0
+PC_CPU : 
+PC_RAM(Available) : 
+PC_RAM_INIT(free) : 
+PC_DISK(C-Drive free/Total) : 
+PC_OS : 
+JIG : 03
+
+#TEST
+/*================================================================================
+Test Conditions, Measured Value, Lower Limit, Upper Limit, P/F, Sec
+================================================================================*/
+BREQ [], 0.00, 0.00, 0.00, P, 0.00
+BCNF [], 0.00, 0.00, 0.00, P, 0.00
+BCMP [], 0.00, 0.00, 0.00, P, 0.00
+BACK [], 0.00, 0.00, 0.00, P, 0.00
+
+#END
+RESULT : PASS
+ERROR-CODE : 
+FAILITEM : 
+PROCESS SKIP : 
+TEST-TIME : 27.338
+//PC_RAM_END(free) : 
+
+
