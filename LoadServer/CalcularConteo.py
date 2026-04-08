@@ -1,4 +1,8 @@
+import logging
+
 from Configuraciones import Configuraciones
+
+logger = logging.getLogger(__name__)
 
 
 class CalcularConteo:
@@ -10,18 +14,28 @@ class CalcularConteo:
         self.cfg_main = self.config.obtener_buffer_main()
 
     def buffer_dcsd(self):
-        return self.consultas.contar_buffer(
+        conteo = self.consultas.contar_buffer(
             self.medio_entrada_id,
             self.cfg_dcsd["box"],
             self.cfg_dcsd["salida_id"],
         )
+        if conteo > self.cfg_dcsd["max"]:
+            logger.warning(
+                f"Buffer DCSD: conteo ({conteo}) excede capacidad fisica ({self.cfg_dcsd['max']})"
+            )
+        return conteo
 
     def buffer_main(self):
-        return self.consultas.contar_buffer(
+        conteo = self.consultas.contar_buffer(
             self.medio_entrada_id,
             self.cfg_main["box"],
             self.cfg_main["salida_id"],
         )
+        if conteo > self.cfg_main["max"]:
+            logger.warning(
+                f"Buffer MAIN: conteo ({conteo}) excede capacidad fisica ({self.cfg_main['max']})"
+            )
+        return conteo
 
     def resumen(self):
         dcsd = self.buffer_dcsd()

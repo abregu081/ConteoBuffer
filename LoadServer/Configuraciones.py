@@ -68,12 +68,14 @@ class Configuraciones:
         return {
             "box": self.direccionario_valores.get("Buffer_DCSD_Box", "01"),
             "salida_id": int(self.direccionario_valores.get("Buffer_DCSD_Salida_ID", "4")),
+            "max": int(self.direccionario_valores.get("Buffer_DCSD_Max", "384")),
         }
 
     def obtener_buffer_main(self):
         return {
             "box": self.direccionario_valores.get("Buffer_MAIN_Box", "02"),
             "salida_id": int(self.direccionario_valores.get("Buffer_MAIN_Salida_ID", "6")),
+            "max": int(self.direccionario_valores.get("Buffer_MAIN_Max", "512")),
         }
 
     def obtener_linea_id(self):
@@ -93,3 +95,6 @@ class Configuraciones:
     
     def obtener_objetivo_diario_main(self):
         return int(self.direccionario_valores.get("objetivo_diario_main", "100"))
+
+    def obtener_dias_sin_conteo(self):
+        return int(self.direccionario_valores.get("dias_sin_conteo", "14"))

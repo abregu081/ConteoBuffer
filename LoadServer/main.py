@@ -4,6 +4,7 @@ from ConectorSQLite import ConectorSQLite
 from Configuraciones import Configuraciones
 from CalcularConteo import CalcularConteo
 from ConsultasSQL import ConsultasSQL
+from DebugBuffer import DebugBuffer
 
 logging.basicConfig(
     level=logging.INFO,
@@ -27,6 +28,7 @@ def main():
 
     consultas = ConsultasSQL(db.conn, db.cursor)
     conteo = CalcularConteo(consultas)
+    debug = DebugBuffer(consultas)
 
     try:
         resumen = conteo.resumen()
@@ -37,6 +39,8 @@ def main():
             f"DCSD={resumen['buffer_dcsd']}  MAIN={resumen['buffer_main']}  "
             f"TOTAL={resumen['buffer_total']}  OBJ_DAILY_DCSD={objetivo_diario_dcsd}  OBJ_DAILY_MAIN={objetivo_diario_main}"
         )
+
+        debug.reporte()
 
         sqlite.limpiar_antiguos(dias_retencion)
         logging.info(f"Limpieza SQLite: eliminados registros > {dias_retencion} días")
