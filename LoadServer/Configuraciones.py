@@ -66,14 +66,12 @@ class Configuraciones:
 
     def obtener_buffer_dcsd(self):
         return {
-            "box": self.direccionario_valores.get("Buffer_DCSD_Box", "01"),
             "salida_id": int(self.direccionario_valores.get("Buffer_DCSD_Salida_ID", "4")),
             "max": int(self.direccionario_valores.get("Buffer_DCSD_Max", "384")),
         }
 
     def obtener_buffer_main(self):
         return {
-            "box": self.direccionario_valores.get("Buffer_MAIN_Box", "02"),
             "salida_id": int(self.direccionario_valores.get("Buffer_MAIN_Salida_ID", "6")),
             "max": int(self.direccionario_valores.get("Buffer_MAIN_Max", "512")),
         }
@@ -85,7 +83,11 @@ class Configuraciones:
         return int(self.direccionario_valores.get("intervalo_polling", "10"))
 
     def obtener_sqlite_path(self):
-        return self.direccionario_valores.get("sqlite_path", "./buffer_counts.db")
+        raw = self.direccionario_valores.get("sqlite_path", "./buffer_counts.db")
+        path = Path(raw)
+        if not path.is_absolute():
+            path = Path(self.ruta_programa) / raw
+        return str(path)
 
     def obtener_dias_retencion(self):
         return int(self.direccionario_valores.get("dias_retencion_sqlite", "30"))

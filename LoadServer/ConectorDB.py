@@ -20,7 +20,10 @@ class ConectorDB:
             database=self.database,
             charset="utf8mb4",
             cursorclass=pymysql.cursors.DictCursor,
-            autocommit=False
+            autocommit=False,
+            connect_timeout=10,
+            read_timeout=60,
+            write_timeout=60,
         )
         self.cursor = self.conn.cursor()
         self.conexion = True
