@@ -1,0 +1,53 @@
+# ConectorDB.py
+import pymysql
+import Configuraciones as cfg
+
+class ConectorDB:
+    def __init__(self):
+        self.configuraciones = cfg.Configuraciones()
+        self.datos = self.configuraciones.obtener_datos_parametros_db()
+        self.host, self.user, self.password, self.database = self.datos[:4]
+
+        self.conn = None
+        self.cursor = None
+        self.conexion = False
+
+    def conectar_db(self):
+        self.conn = pymysql.connect(
+            host=self.host,
+            user=self.user,
+            password=self.password,
+            database=self.database,
+            charset="utf8mb4",
+            cursorclass=pymysql.cursors.DictCursor,
+            autocommit=False,
+            connect_timeout=10,
+            read_timeout=60,
+            write_timeout=60,
+        )
+        self.cursor = self.conn.cursor()
+        self.conexion = True
+
+    def reconectar_si_necesario(self):
+        """Verifica la conexión y reconecta si se perdió (resuelve BUG-06)."""
+        try:
+            self.conn.ping(reconnect=True)
+            self.cursor = self.conn.cursor()
+        except Exception:
+            self.conectar_db()
+
+    def cerrar_conexion(self):
+        if self.cursor:
+            self.cursor.close()
+        if self.conn:
+            self.conn.close()
+        self.cursor = None
+        self.conn = None
+        self.conexion = False
+
+if __name__ == "__main__":
+    conector = ConectorDB()
+    conector.conectar_db()
+    print("Conexión exitosa a la base de datos.")
+    conector.cerrar_conexion()
+    print("Conexión cerrada correctamente.")

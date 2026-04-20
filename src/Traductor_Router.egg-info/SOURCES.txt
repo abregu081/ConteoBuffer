@@ -1,0 +1,5 @@
+setup.py
+Traductor_Router.egg-info/PKG-INFO
+Traductor_Router.egg-info/SOURCES.txt
+Traductor_Router.egg-info/dependency_links.txt
+Traductor_Router.egg-info/top_level.txt

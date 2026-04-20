@@ -1,0 +1,4 @@
+./Logs/
+./venv/
+__pycache__/
+./buffer_counts.db
